@@ -1,35 +1,18 @@
 # Site settings
-course_name: Introduction to Cognitive Neuroscience
-course_description: "Cognitive Neuroscience is an exciting and rapidly 
-evolving eld that bridges the gap between 
-neuroscience, psychology, and computational 
-modeling. It offers deep insights into how the brain 
-enables perception, thought, learning, and behavior. 
-This course provides a foundational understanding of 
-neural systems, their structure and function, and the 
-methods used to study the brain—from cellular and 
-molecular mechanisms to large-scale network 
-dynamics. Students will explore how the brain encodes 
-and processes information, spanning the intricate 
-dynamics of neural activity, sensory representations, 
-and motor control. The course goes into fundamental 
-neural computations, uncovering how biological and 
-theoretical models help explain cognition, perception, 
-and action. In parallel, we have hands-on workshops, 
-including neural data analysis (spikes, LFPs, EEG), fMRI 
-interpretation, and cognitive modeling. This year, we 
-introduce NeuroAI, to the curriculum where we dive 
-into brain-inspired architectures, the synergy between 
-deep learning and cognitive science, and how AI can 
-help us understand, model, and predict neural and 
-cognitive processes."
-course_semester: "Spring 2025"
+course_name: Neuro Cafe Summer School
+course_description: "A multidisciplinary summer school organized by the University of Tehran
+  Neuroscience Community (Neuro Cafe), bringing together students,
+  researchers, and enthusiasts interested in neuroscience, cognitive science,
+  neuroimaging, computational neuroscience, neural data analysis,
+  neurogenetics, artificial intelligence, and brain-inspired technologies.
+"
+course_semester: "Summer 2026"
 
-baseurl: "/ICNSpring2025"
-url: "http://bcolabcourses.github.io/" # the base hostname & protocol for your site
+baseurl: "/NeuroCafeSummerSchool2026"
+url: "https://neurocafe-comm.github.io" # the base hostname & protocol for your site
 
 schoolname: "University of Tehran"
-schoolurl: "https://bcolab.ut.ac.ir/"
+schoolurl: "https://neurocafe-comm.github.io"
 #twitter_username: username 
 
 address: |
